@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Btn1Min" type="id" />
+    <item name="Btn15Min" type="id" />
+    <item name="Btn1Hr" type="id" />
+    <item name="Btn1Day" type="id" />
+    <item name="Btn1Wk" type="id" />
+    <item name="Btn1Month" type="id" />
+    <item name="Btn1Year" type="id" />
+    <item name="webView" type="id" />
+</resources>

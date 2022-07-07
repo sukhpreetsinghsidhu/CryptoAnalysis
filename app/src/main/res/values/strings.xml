@@ -9,14 +9,14 @@
     <string name="watchlist">Watch List</string>
 
     <string name="search_hint">Search Crypto Currency</string>
-<!--    <string name="empty_watchlist">Watchlist is empty</string>-->
+    <!--    <string name="empty_watchlist">Watchlist is empty</string>-->
     <string name="not_found">No Found any data</string>
 
     <!--    <string name="_15m">15 min</string>-->
-<!--    <string name="_1h">1 Hour</string>-->
-<!--    <string name="_4h">4 Hour</string>-->
-<!--    <string name="_1d">1 Day</string>-->
-<!--    <string name="_1w">1 Weak</string>-->
-<!--    <string name="_1m">1 Min</string>-->
-<!--    -->
+    <!--    <string name="_1h">1 Hour</string>-->
+    <!--    <string name="_4h">4 Hour</string>-->
+    <!--    <string name="_1d">1 Day</string>-->
+    <!--    <string name="_1w">1 Weak</string>-->
+    <!--    <string name="_1m">1 Min</string>-->
+    <!--    -->
 </resources>
