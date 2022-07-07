@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "924760082043",
+    "project_id": "crypto-pirates",
+    "storage_bucket": "crypto-pirates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924760082043:android:20b27d2b5f20219e7744de",
+        "android_client_info": {
+          "package_name": "com.example.cryptoanalysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924760082043-blqv7441b4lu1reslhvsjgmlsqatd679.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT4Kz1oOdr0M2jBp7riGym0oG01HoALYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924760082043-blqv7441b4lu1reslhvsjgmlsqatd679.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924760082043:android:5c48173ff2fad1817744de",
+        "android_client_info": {
+          "package_name": "com.example.cryptopirates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924760082043-blqv7441b4lu1reslhvsjgmlsqatd679.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT4Kz1oOdr0M2jBp7riGym0oG01HoALYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924760082043-blqv7441b4lu1reslhvsjgmlsqatd679.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

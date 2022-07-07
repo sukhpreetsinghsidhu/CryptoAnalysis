@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CryptoAnalysis</string>
+    <string name="title_activity_mainpage">MainpageActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_news">News</string>
+    <string name="Discover">Discover</string>
+    <string name="watchlist">Watch List</string>
+
+    <string name="search_hint">Search Crypto Currency</string>
+<!--    <string name="empty_watchlist">Watchlist is empty</string>-->
+    <string name="not_found">No Found any data</string>
+
+    <!--    <string name="_15m">15 min</string>-->
+<!--    <string name="_1h">1 Hour</string>-->
+<!--    <string name="_4h">4 Hour</string>-->
+<!--    <string name="_1d">1 Day</string>-->
+<!--    <string name="_1w">1 Weak</string>-->
+<!--    <string name="_1m">1 Min</string>-->
+<!--    -->
+</resources>

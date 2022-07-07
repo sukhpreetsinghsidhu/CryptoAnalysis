@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CryptoAnalysis</string>
+    <string name="title_activity_mainpage">MainpageActivity</string>
+    <string name="title_home">Maison</string>
+    <string name="title_dashboard">tableau de bord</string>
+    <string name="title_notifications">Avis</string>
+    <string name="title_news">Nouvelles</string>
+    <string name="Discover">Découvrir</string>
+    <string name="search_hint">Rechercher une crypto-monnaie</string>
+    <string name="not_found">Aucune donnée trouvée</string>
+    <string name="watchlist">Liste de surveillance</string>
+    <string name="enable_dark_mode">Activer le mode sombre</string>
+    <string name="disable_dark_mode">Désactiver le mode sombre</string>
+    <string name="Accessibility">Accessibilité</string>
+</resources>
